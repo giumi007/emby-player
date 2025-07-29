@@ -1,11 +1,4 @@
-body { background: #1e1e1e; font-family: sans-serif;
-  display: flex; align-items: center; justify-content: center; height: 100vh; margin:0; }
-.login-card {
-  background: #2a2a2a; border-radius: 16px; padding: 32px;
-  box-shadow: 0 0 20px #000; color: #fff; width: 320px; text-align: center;
+body {
+  font-family: sans-serif;
+  padding: 20px;
 }
-.login-card input, .login-card button {
-  width: 100%; margin: 8px 0; padding: 10px;
-  border-radius: 8px; border: none;
-}
-.login-card button { background: #4caf50; color: #fff; cursor: pointer; }
